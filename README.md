@@ -69,8 +69,6 @@ Tables:
 
 ---
 
-## 📦 Installation
-
 ### 1. Clone Repository
 
 ```bash
