@@ -1,5 +1,5 @@
 
-BOT_TOKEN = '8830302132:AAGDvIKdbG3WmSjqBbA-ls1UFTz1HsiJVik'  # توکن ربات خود را اینجا قرار دهید
+BOT_TOKEN = 'token'  # توکن ربات خود را اینجا قرار دهید
 import telebot
 from telebot import types
 import sqlite3
